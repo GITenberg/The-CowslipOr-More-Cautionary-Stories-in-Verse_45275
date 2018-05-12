@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35892'
     url: http://www.gutenberg.org/2009/agents/35892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45275#The-CowslipOr-More-Cautionary-Stories-in-Verse
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
